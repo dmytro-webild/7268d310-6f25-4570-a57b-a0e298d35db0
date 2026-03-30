@@ -64,53 +64,53 @@ export default function LandingPage() {
       description="Hand-crafted from the finest farm-fresh potatoes, our chips deliver a snacking experience like no other."
       leftCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/homemade-delicious-potato-crispy-chips-small-brown-bowl-potatoes-oil-bottle-green-tomatoes-garlic-ketchup-dark-table_140725-140253.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/homemade-delicious-potato-crispy-chips-small-brown-bowl-potatoes-oil-bottle-green-tomatoes-garlic-ketchup-dark-table_140725-140253.jpg?_wi=1",
           imageAlt: "Hero 1",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-crispy-chips-uncooked-potatoes-wooden-cutting-board-gray-table_140725-86978.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-crispy-chips-uncooked-potatoes-wooden-cutting-board-gray-table_140725-86978.jpg?_wi=1",
           imageAlt: "Hero 2",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/homemade-delicious-potato-crispy-chips-small-brown-bowl-potatoes-oil-bottle-green-tomatoes-garlic-ketchup-dark-table_140725-140253.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/homemade-delicious-potato-crispy-chips-small-brown-bowl-potatoes-oil-bottle-green-tomatoes-garlic-ketchup-dark-table_140725-140253.jpg?_wi=2",
           imageAlt: "Hero 3",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-crispy-chips-uncooked-potatoes-wooden-cutting-board-gray-table_140725-86978.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-crispy-chips-uncooked-potatoes-wooden-cutting-board-gray-table_140725-86978.jpg?_wi=2",
           imageAlt: "Hero 4",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/homemade-delicious-potato-crispy-chips-small-brown-bowl-potatoes-oil-bottle-green-tomatoes-garlic-ketchup-dark-table_140725-140253.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/homemade-delicious-potato-crispy-chips-small-brown-bowl-potatoes-oil-bottle-green-tomatoes-garlic-ketchup-dark-table_140725-140253.jpg?_wi=3",
           imageAlt: "Hero 5",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-crispy-chips-uncooked-potatoes-wooden-cutting-board-gray-table_140725-86978.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-crispy-chips-uncooked-potatoes-wooden-cutting-board-gray-table_140725-86978.jpg?_wi=3",
           imageAlt: "Hero 6",
         },
       ]}
       rightCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-crispy-chips-uncooked-potatoes-wooden-cutting-board-gray-table_140725-86978.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-crispy-chips-uncooked-potatoes-wooden-cutting-board-gray-table_140725-86978.jpg?_wi=4",
           imageAlt: "Hero 1",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/homemade-delicious-potato-crispy-chips-small-brown-bowl-potatoes-oil-bottle-green-tomatoes-garlic-ketchup-dark-table_140725-140253.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/homemade-delicious-potato-crispy-chips-small-brown-bowl-potatoes-oil-bottle-green-tomatoes-garlic-ketchup-dark-table_140725-140253.jpg?_wi=4",
           imageAlt: "Hero 2",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-crispy-chips-uncooked-potatoes-wooden-cutting-board-gray-table_140725-86978.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-crispy-chips-uncooked-potatoes-wooden-cutting-board-gray-table_140725-86978.jpg?_wi=5",
           imageAlt: "Hero 3",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/homemade-delicious-potato-crispy-chips-small-brown-bowl-potatoes-oil-bottle-green-tomatoes-garlic-ketchup-dark-table_140725-140253.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/homemade-delicious-potato-crispy-chips-small-brown-bowl-potatoes-oil-bottle-green-tomatoes-garlic-ketchup-dark-table_140725-140253.jpg?_wi=5",
           imageAlt: "Hero 4",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-crispy-chips-uncooked-potatoes-wooden-cutting-board-gray-table_140725-86978.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-crispy-chips-uncooked-potatoes-wooden-cutting-board-gray-table_140725-86978.jpg?_wi=6",
           imageAlt: "Hero 5",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/homemade-delicious-potato-crispy-chips-small-brown-bowl-potatoes-oil-bottle-green-tomatoes-garlic-ketchup-dark-table_140725-140253.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/homemade-delicious-potato-crispy-chips-small-brown-bowl-potatoes-oil-bottle-green-tomatoes-garlic-ketchup-dark-table_140725-140253.jpg?_wi=6",
           imageAlt: "Hero 6",
         },
       ]}
